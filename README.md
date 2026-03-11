@@ -9,7 +9,7 @@ Next.js（App Router）とSupabaseを用いて開発しました。
 認証：Supabase Auth（メールログイン対応）
 
 ## サイトイメージ
-![アプリ画面](docs/app-screenshot.png)
+![アプリ画面](https://github.com/yoyohemaru241/live-log-app-portfolio/blob/bfed3408bf95b7e33339eff02a9c726ae1c24c00/docs/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-03-11%20222955.png)
 
 ## サイトURL
 (https://live-log-appv2-n5x7l9f0k-yoyohemaru41-5938s-projects.vercel.app/login)
