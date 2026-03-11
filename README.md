@@ -9,9 +9,9 @@ Next.js（App Router）とSupabaseを用いて開発しました。
 認証：Supabase Auth（メールログイン対応）
 
 ## サイトイメージ
-チャート描画：Chart.js![ChatGPT Image 2025年5月27日 00_19_45](https://github.com/user-attachments/assets/ee721251-44e3-4252-81b0-5982d7cb18d4)
+![アプリ画面](docs/app-screenshot.png)
 
-##サイトURL
+## サイトURL
 (https://live-log-appv2-n5x7l9f0k-yoyohemaru41-5938s-projects.vercel.app/login)
 ## 設計ドキュメント
 
